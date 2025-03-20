@@ -1,5 +1,13 @@
+Welcome ! 
+
+Authors : **Verlaine** & **Anne Sophie Salon**
+
 # 100-Day-of-Cisco-PyATS-
 This repository is dedicated to Cisco PyATS and all my hands-on experience,if you want to be among the best leaders in TDD this repo is yours !
+
+**The Book Chapters**
+
+![PyATS book](https://github.com/user-attachments/assets/7d07ddca-2456-4e88-bdc1-a1d257312757)
 
 | Chapters  | Topics                       | Notes |
 |-------|---------------------------------|-------------------|
@@ -27,13 +35,8 @@ This repository is dedicated to Cisco PyATS and all my hands-on experience,if yo
 | [22] |**Robot framework** | Advanced |
 | [23] |**Leveraging Artificial Intelligence in pyATS** | Advanced |
 
-The 100 Day challenge 
 
-⚠️ Some chapters are short in 3 days it's possible to complete them and understand the foundations
 
-| Day   | Topics                       | Notes |
-|-------|---------------------------------|-------------------|
-| [1]  |**Foundation of NetDevOps** | foundational|
-| [2]  |**Installing and Upgrading pyATS** | foundational|
-| [3]  |**Testbeds** | Foundational |
-| [4]  |**AEtest Test Infrastraucture** | Advanced |
+
+
+
