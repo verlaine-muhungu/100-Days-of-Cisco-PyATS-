@@ -2,7 +2,7 @@ Welcome !
 
 Authors : **Verlaine** & **Anne Sophie Salon**
 
-# 100-Day-of-Cisco-PyATS-
+# 100-Days-of-Cisco-PyATS-
 A dedicated space for the 100 Days Challenge progress and projects
 
 **The Book Chapters**
