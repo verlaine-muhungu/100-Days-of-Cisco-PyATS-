@@ -36,7 +36,33 @@ A dedicated space for the 100 Days Challenge progress and projects
 | [23] |**Leveraging Artificial Intelligence in pyATS** | Advanced |
 
 
+Whether you're just starting your automation journey or looking to level up, this is your chance to practice, learn, and grow with one of the most powerful test automation frameworks in the industry.
 
+**Why pyATS?**
+
+✅ Built by Cisco, used far beyond Cisco
+
+✅ Designed for safe, repeatable, real-world automation testing
+
+✅ Powered by Python,the defacto language of automation
+
+✅ Perfect for building confidence and creativity in the AI era
+
+This initiative is inspired by the incredible work of **John Capobianco** and **Daniel Wade**. It’s an honor to carry this forward and build a community around it.
+
+
+**Why 100 Days?**
+
+✅ automation is hard but consistency builds mastery
+
+✅ Learning together accelerates growth
+
+✅ Sharing experiences multiplies impact 
+
+✅ You’ll build real skills, real confidence, and real results 
+
+
+Let's start the adventure 
 
 
 
