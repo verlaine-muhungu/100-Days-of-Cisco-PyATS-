@@ -51,7 +51,6 @@ Whether you're just starting your automation journey or looking to level up, thi
 
 This initiative is inspired by the incredible work of **John Capobianco** and **Daniel Wade**. It’s an honor to carry this forward and build a community around it.
 
-
 **Why 100 Days?**
 
 ✅ automation is hard but consistency builds mastery
@@ -63,7 +62,20 @@ This initiative is inspired by the incredible work of **John Capobianco** and **
 ✅ You’ll build real skills, real confidence, and real results 
 
 
-Let's start the adventure 
+The first two days of this challenge are easy to grasp,here is how to contribute and make this challenge exciting 
+
+- **Share what you learn in each step,whether it's a Linkedin post or short blog,no perfection**
+
+- **Use the hashtag #100daysofpyATS for every post you will share during the challenge,and do not forget to mention the day,example 1/100**
+
+- **Ask questions in the group,there's no unimportant questions,keep asking until you feel comfortable with pyATS**
+
+- **After exploring the first four chapters, if you feel inspired to start a project, don’t hesitate to share it with the group,you’ll receive full credit for your work**
+
+- **All Projects from the challenge will be shared here to inspire the globe**
+
+
+Let's the adventure begins and discover resources 
 
 
 
