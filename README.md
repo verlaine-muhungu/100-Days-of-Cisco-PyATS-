@@ -68,14 +68,14 @@ The first two days of this challenge are easy to grasp,here is how to contribute
 
 - **Use the hashtag #100daysofpyATS for every post you will share during the challenge,and do not forget to mention the day,example 1/100**
 
-- **Ask questions in the group,there's no unimportant questions,keep asking until you feel comfortable with pyATS**
+- **Ask questions in the group,there's no irrelevant questions,keep asking until you feel comfortable with pyATS**
 
-- **After exploring the first four chapters, if you feel inspired to start a project, don’t hesitate to share it with the group,you’ll receive full credit for your work**
+- **After exploring the first four chapters, if you feel inspired to start a project, do not hesitate to share it with the group,you’ll receive full credit for your work**
 
 - **All Projects from the challenge will be shared here to inspire the globe**
 
 
-Let's the adventure begins and discover [**resources**](https://github.com/verlaine-muhungu/100-Days-of-Cisco-PyATS-/blob/main/Important%20Resources%20%20/pyATS%20resources.md)
+Ready to explore? The adventure starts now 👉🏽 [**Resources**](https://github.com/verlaine-muhungu/100-Days-of-Cisco-PyATS-/blob/main/Important%20Resources%20%20/pyATS%20resources.md)
 
 
 
