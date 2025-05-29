@@ -75,7 +75,7 @@ The first two days of this challenge are easy to grasp,here is how to contribute
 - **All Projects from the challenge will be shared here to inspire the globe**
 
 
-Let's the adventure begins and discover [**resources**](https://github.com/verlaine-muhungu/100-Days-of-Cisco-PyATS-/tree/main/Important%20Resources%20%20)
+Let's the adventure begins and discover [**resources**](https://github.com/verlaine-muhungu/100-Days-of-Cisco-PyATS-/blob/main/Important%20Resources%20%20/pyATS%20resources.md)
 
 
 
