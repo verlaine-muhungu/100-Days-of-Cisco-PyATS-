@@ -1,6 +1,7 @@
 Welcome ! 
 
-Authors : **Verlaine** & **Anne Sophie Salon**
+Authors : [**Verlaine**](https://www.linkedin.com/in/verlaine-j-muhungu-363507b2/) & [**Anne Sophie Salon-Jauhangeer**](https://www.linkedin.com/in/anne-sophie-salon-jauhangeer-3a9a2a259/)
+ 
 
 # 100-Days-of-Cisco-PyATS-
 A dedicated space for the 100 Days Challenge progress and projects
