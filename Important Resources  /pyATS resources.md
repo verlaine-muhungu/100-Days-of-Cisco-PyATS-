@@ -33,6 +33,8 @@
 3. [**Hands-On ChatGPT: Cisco pyATS and Genie**](https://u.cisco.com/tutorials/handson-chatgpt-cisco-pyats-genie-5051)
 
 
+Create a free CiscoU account to benefit from the exclusive content 👉🏽 [CiscoU](https://u.cisco.com/)
+
 
 **Precious articles and blogs about pyATS** 💎
 
