@@ -39,11 +39,6 @@ No need to worry if you're not familiar with Python or Git; the right resources 
 
 💻[**Introduction to Python** By **Cisco Devnet**]( https://developer.cisco.com/learning/modules/dne-intro-python/)
 
-💻[**Think like a developer** By **Erika Dietrick**](https://www.youtube.com/playlist?list=PLvfm4aNXLC8wiJs-YGVQXUwukv06z5NJS) 
-
-
-
-
 
 
 **Free courses and tutorials worth learning** 💻
