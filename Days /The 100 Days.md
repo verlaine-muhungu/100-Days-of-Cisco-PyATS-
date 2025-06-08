@@ -75,8 +75,15 @@ Day 38 - 42 : **Automated configuration Management**
 
 💻 [**Cisco configuration management with chatGPT and pyATS**](https://youtu.be/8EXXSpUWTw8)
 
-💻 [**
+Day 43 - 48: [**Network Snapshots**]
 
+💻 [** PyATS Framework for Network Automation:Take Cisco Device Feature Config/State Snapshot using Python**](https://youtu.be/KBHxgZFeJCc) 
+
+Day 49-43: **Recording,Playbacks and Mock devices**
+
+💻 [**Record and Playback your pyATS Network Automation**](https://youtu.be/koXiW2M3z04)
+
+💻
 
 
 
