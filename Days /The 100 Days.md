@@ -86,12 +86,13 @@ Day 49-53: **Recording,Playbacks and Mock devices**
 💻 [**Record and Playback your pyATS Network Automation**](https://youtu.be/koXiW2M3z04)
 
 
-
 Day 54-58: **Working with Application programming interfaces ( API)**
 
 💻 [**Intro to coding and APIS**](https://developer.cisco.com/learning/modules/programming-fundamentals/intro-coding-and-apis/introduction/)
 
 💻 [**REST Connector**](https://developer.cisco.com/docs/rest-connector/)
+
+💻 [**Available Apis**](https://pubhub.devnetcloud.com/media/genie-feature-browser/docs/#/apis)
 
 
 Day 59-63 : **Parallel Call (pcall)**
@@ -130,7 +131,11 @@ Day 85 -88: **XPRESSO**
 ☕ [**Cisco pyATS XPRESSO - A Web UI for pyATS**](https://youtu.be/tK8FQ1CzQFo)
 
 
+Day 89- 92 : **CI/CD with pyATS**
 
+📚 [**Integrating pyATS with CI/CD Pipelines: A Reference Guide**](https://orhanergun.net/integrating-pyats-with-ci-cd-pipelines-a-reference-guide)
+
+📚 [**
 
 
 
