@@ -70,6 +70,7 @@ Day 33 - 37 : **pyATS triggers and Verifications**
 
 📚 [**Writing a Trigger**](https://github.com/CiscoTestAutomation/getting-started/blob/main/develop-guide/writetrigger/writetrigger.rst)
 
+📚 [**pyATS triggers and Verifications excerpt**](https://ptgmedia.pearsoncmg.com/images/9780138031671/samplepages/9780138031671_Sample.pdf)
 
 Day 38 - 42 : **Automated configuration Management**
 
@@ -77,13 +78,15 @@ Day 38 - 42 : **Automated configuration Management**
 
 Day 43 - 48: **Network Snapshots**
 
-💻 [** PyATS Framework for Network Automation:Take Cisco Device Feature Config/State Snapshot using Python**](https://youtu.be/KBHxgZFeJCc) 
+💻 [**PyATS Framework for Network Automation:Take Cisco Device Feature Config/State Snapshot using Python**](https://youtu.be/KBHxgZFeJCc)
 
 Day 49-43: **Recording,Playbacks and Mock devices**
 
 💻 [**Record and Playback your pyATS Network Automation**](https://youtu.be/koXiW2M3z04)
 
-💻
+💻 
+
+Day 54-58: **Working with Application programming interfaces ( API)**
 
 
 
