@@ -114,6 +114,13 @@ Day 75 -79 : **Running pyATS as a container**
 
 📝 [**Use PyATS in a Container for Network Automation Development**](https://youtu.be/1sL9Q4_1Puw)
 
+📝 [**pyATS Dockerfile and Scripts**](https://github.com/CiscoTestAutomation/pyats-docker)
+
+Day 80 - 84 : **pyATS Health Check**
+
+🔬 [**pyATS Health Check**](https://pubhub.devnetcloud.com/media/genie-docs/docs/health/index.html)
+
+🔬 [**pyATS Health Examples**](https://github.com/CiscoTestAutomation/examples/tree/master/health)
 
 
 
