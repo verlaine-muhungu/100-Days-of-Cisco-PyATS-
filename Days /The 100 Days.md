@@ -96,7 +96,25 @@ Day 54-58: **Working with Application programming interfaces ( API)**
 
 Day 59-63 : **Parallel Call (pcall)**
 
-📚 
+📚 [**Parallel Call**](https://docs.devnetexperttraining.com/static-docs/pyATS/async/pcall.html)
+
+
+Day 64- 69: **pyATS Clean**
+
+📚 [**Introduction to pyATS Clean**](https://pubhub.devnetcloud.com/media/genie-docs/docs/clean/index.html)
+
+📚 [**Clean Examples**](https://github.com/CiscoTestAutomation/examples/tree/master/clean) 
+
+
+Day 70-74 : **pyATS Blitz**
+
+📝 [**pyATS Blitz**](https://pubhub.devnetcloud.com/media/genie-docs/docs/blitz/index.html)
+
+Day 75 -79 : **Running pyATS as a container**
+
+📝 [**Use PyATS in a Container for Network Automation Development**](https://youtu.be/1sL9Q4_1Puw)
+
+
 
 
 
