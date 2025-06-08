@@ -135,7 +135,9 @@ Day 89- 92 : **CI/CD with pyATS**
 
 📚 [**Integrating pyATS with CI/CD Pipelines: A Reference Guide**](https://orhanergun.net/integrating-pyats-with-ci-cd-pipelines-a-reference-guide)
 
-📚 [**
+📚 [**Wrap-up the pyATS Config | NetGru**](https://youtu.be/Wh0xUUQKxSg)
+
+📚 [**CI/CD Pipelines for Infrastructure Automation**](https://youtu.be/IDAs9eq_NOU)
 
 
 
