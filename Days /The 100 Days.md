@@ -1,3 +1,17 @@
+**How to follow the days?**
+
+Each day is a new opportunity to learn. Share what you’ve discovered by posting on LinkedIn or writing a short blog.
+
+If you’re struggling to understand a topic, feel free to ask your questions in the Webex space. Community members will respond as soon as possible, keeping in mind that time zones may affect availability.
+
+There’s no need to rush. Let’s take this learning journey step by step 🐢
+
+
+⚠⚠**Note**: The resources shared here are not exhaustive. If a resource doesn’t meet your needs on a given day and you don’t have access to a book, community members will suggest relevant links to help you, especially with pyATS. Since this is our first 100 Days of pyATS, we’ll continue to improve as we move forward.
+
+For Labs on [**Cisco pyATS**](https://developer.cisco.com/search?type=all&q=pyATS) Cisco Devnet offers amazing hands-on resources.
+
+
 Day 1: **Foundations of NetdevOps**
 
 📚 [**Networking: How Useful is pyATS in NetDevOps?**](https://hackernoon.com/networking-how-useful-is-pyats-in-netdevops)
@@ -148,28 +162,9 @@ Day 93- 96 : **Robot Framework**
 
 
 
+Day 97-100 : **Leveraging Artificial intelligence with pyATS**
 
+🧠 [**A free, local, automated, pyATS AI Agent**](https://youtu.be/-YexrtDweGo)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+🧠 [**chatGPT AI-powered network automation tests with pyATS and WebEx**](https://youtu.be/V6naa8bvbN0)
 
