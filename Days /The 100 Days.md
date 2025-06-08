@@ -80,13 +80,20 @@ Day 43 - 48: **Network Snapshots**
 
 💻 [**PyATS Framework for Network Automation:Take Cisco Device Feature Config/State Snapshot using Python**](https://youtu.be/KBHxgZFeJCc)
 
-Day 49-43: **Recording,Playbacks and Mock devices**
+
+Day 49-53: **Recording,Playbacks and Mock devices**
 
 💻 [**Record and Playback your pyATS Network Automation**](https://youtu.be/koXiW2M3z04)
 
-💻 
+
 
 Day 54-58: **Working with Application programming interfaces ( API)**
+
+💻 [**REST Connector**](https://developer.cisco.com/docs/rest-connector/)
+
+
+
+
 
 
 
