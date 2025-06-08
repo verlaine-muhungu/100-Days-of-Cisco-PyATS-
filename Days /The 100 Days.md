@@ -140,6 +140,13 @@ Day 89- 92 : **CI/CD with pyATS**
 📚 [**CI/CD Pipelines for Infrastructure Automation**](https://youtu.be/IDAs9eq_NOU)
 
 
+Day 93- 96 : **Robot Framework**
+
+🤖 [**pyATS vs. Robot Framework: Which Testing Tool Wins?**](https://orhanergun.net/pyats-vs-robot-framework-which-testing-tool-wins)
+
+🤖 [**RobotFramework Support**](https://pubhub.devnetcloud.com/media/pyats/docs/robot/index.html#)
+
+
 
 
 
