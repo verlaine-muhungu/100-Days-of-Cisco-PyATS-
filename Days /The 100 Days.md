@@ -89,8 +89,14 @@ Day 49-53: **Recording,Playbacks and Mock devices**
 
 Day 54-58: **Working with Application programming interfaces ( API)**
 
+💻 [**Intro to coding and APIS**](https://developer.cisco.com/learning/modules/programming-fundamentals/intro-coding-and-apis/introduction/)
+
 💻 [**REST Connector**](https://developer.cisco.com/docs/rest-connector/)
 
+
+Day 59-63 : **Parallel Call (pcall)**
+
+📚 
 
 
 
