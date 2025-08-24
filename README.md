@@ -41,25 +41,25 @@ Whether you're just starting your automation journey or looking to level up, thi
 
 **Why pyATS?**
 
-✅ Built by Cisco, used far beyond Cisco
+:white_check_mark: Built by Cisco, used far beyond Cisco
 
-✅ Designed for safe, repeatable, real-world automation testing
+:white_check_mark: Designed for safe, repeatable, real-world automation testing
 
-✅ Powered by Python, the defacto language of automation
+:white_check_mark: Powered by Python, the defacto language of automation
 
-✅ Perfect for building confidence and creativity in the AI era
+:white_check_mark: Perfect for building confidence and creativity in the AI era
 
 This initiative is inspired by the incredible work of **John Capobianco** and **Daniel Wade**. It’s an honor to carry this forward and build a community around it.
 
 **Why 100 Days?**
 
-✅ automation is hard but consistency builds mastery
+:white_check_mark: automation is hard but consistency builds mastery
 
-✅ Learning together accelerates growth
+:white_check_mark: Learning together accelerates growth
 
-✅ Sharing experiences multiplies impact 
+:white_check_mark: Sharing experiences multiplies impact 
 
-✅ You’ll build real skills, real confidence, and real results 
+:white_check_mark: You’ll build real skills, real confidence, and real results 
 
 
 The first two days of this challenge are easy to grasp, here is how to contribute and make this challenge exciting 
@@ -75,7 +75,7 @@ The first two days of this challenge are easy to grasp, here is how to contribut
 - **All Projects from the challenge will be shared here to inspire the globe**
 
 
-Ready to explore? The adventure starts now 👉🏽 [**Resources**](https://github.com/verlaine-muhungu/100-Days-of-Cisco-PyATS-/blob/main/Important%20Resources%20%20/pyATS%20resources.md)
+Ready to explore? The adventure starts now &#128073;&#127997; [**Resources**](https://github.com/verlaine-muhungu/100-Days-of-Cisco-PyATS-/blob/main/Important%20Resources%20%20/pyATS%20resources.md)
 
 
 
