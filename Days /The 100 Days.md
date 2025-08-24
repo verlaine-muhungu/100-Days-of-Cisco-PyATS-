@@ -7,7 +7,11 @@ If you’re struggling to understand a topic, feel free to ask your questions in
 There’s no need to rush. Let’s take this learning journey step by step :turtle:
 
 
-⚠⚠**Note**: The resources shared here are not exhaustive. If a resource doesn’t meet your needs on a given day and you don’t have access to a book, community members will suggest relevant links to help you, especially with pyATS. Since this is our first 100 Days of pyATS, we’ll continue to improve as we move forward.
+> [!IMPORTANT]
+> The resources shared here are not exhaustive. If a resource doesn’t meet your
+> needs on a given day and you don’t have access to a book, community members
+> will suggest relevant links to help you, especially with pyATS. Since this is
+> our first 100 Days of pyATS, we’ll continue to improve as we move forward.
 
 For Labs on [**Cisco pyATS**](https://developer.cisco.com/search?type=all&q=pyATS) Cisco Devnet offers amazing hands-on resources.
 
