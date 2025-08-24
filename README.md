@@ -15,25 +15,25 @@ A dedicated space for the 100 Days Challenge progress and projects
 | [1]  |**Foundation of NetDevOps** | Foundational|
 | [2]  |**Installing and Upgrading pyATS** | Foundational|
 | [3]  |**Testbeds** | Foundational |
-| [4]  |**AEtest Test Infrastraucture** | Advanced |
+| [4]  |**AEtest Test Infrastructure** | Advanced |
 | [5]  |**PyATS Parsers** | Advanced |
 | [6]  |**Test Driven Development** | Advanced |
-| [7]  |**Automated Network documentation** | Advanced |
-| [8]  |**Automated Network testing** | Advanced |
-| [9]  |**PyATS Triggers and verifications** | Advanced |
-| [10] |**Automated configuration management** | Advanced |
+| [7]  |**Automated Network Documentation** | Advanced |
+| [8]  |**Automated Network Testing** | Advanced |
+| [9]  |**PyATS Triggers and Verifications** | Advanced |
+| [10] |**Automated Configuration Management** | Advanced |
 | [11] |**Network Snapshots** | Advanced |
-| [12] |**Recordings,Playbacks and Mock Devices** | Advanced |
-| [13] |**Working with application programming Interfaces(API)** | Advanced |
+| [12] |**Recordings, Playbacks, and Mock Devices** | Advanced |
+| [13] |**Working with Application Programming Interfaces (API)** | Advanced |
 | [14] |**Parallel Call (pcall)** | Advanced |
 | [15] |**PyATS Clean** | Advanced |
 | [16] |**PyATS Blitz** | Advanced |
 | [17] |**Chatbots with Webex** | Advanced |
-| [18] |**Running pyATS as a container** | Advanced |
+| [18] |**Running pyATS as a Container** | Advanced |
 | [19] |**pyATS Health Check** | Advanced |
 | [20] |**XPRESSO** | Advanced |
 | [21] |**CI/CD with pyATS** | Advanced |
-| [22] |**Robot framework** | Advanced |
+| [22] |**Robot Framework** | Advanced |
 | [23] |**Leveraging Artificial Intelligence in pyATS** | Advanced |
 
 
@@ -53,7 +53,7 @@ This initiative is inspired by the incredible work of **John Capobianco** and **
 
 **Why 100 Days?**
 
-:white_check_mark: automation is hard but consistency builds mastery
+:white_check_mark: Automation is hard but consistency builds mastery
 
 :white_check_mark: Learning together accelerates growth
 
