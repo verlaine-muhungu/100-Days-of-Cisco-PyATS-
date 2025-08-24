@@ -49,7 +49,8 @@ Whether you're just starting your automation journey or looking to level up, thi
 
 :white_check_mark: Perfect for building confidence and creativity in the AI era
 
-This initiative is inspired by the incredible work of **John Capobianco** and **Daniel Wade**. It’s an honor to carry this forward and build a community around it.
+This initiative is inspired by the incredible work of **[John Capobianco](https://github.com/automateyournetwork)** and **[Daniel Wade](https://github.com/dannywade)**.
+It’s an honor to carry this forward and build a community around it.
 
 **Why 100 Days?**
 
