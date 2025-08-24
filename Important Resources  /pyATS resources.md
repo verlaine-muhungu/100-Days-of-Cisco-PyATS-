@@ -1,15 +1,15 @@
 **Top 4 Books to Kickstart or Elevate Your Automation Skills** :books:
 
-1. [**Cisco PyATS**](https://www.ciscopress.com/store/cisco-pyats-network-test-and-automation-solution-data-9780138031671) by **John Capobianco** and **Daniel Wade** they are brillant automation contributors, PyATS is a great way to learn test driven automation,this guide is the first in the universe !
+1. [**Cisco PyATS**](https://www.ciscopress.com/store/cisco-pyats-network-test-and-automation-solution-data-9780138031671) by **John Capobianco** and **Daniel Wade** they are brillant automation contributors, PyATS is a great way to learn test driven automation,this guide is the first in the universe!
 
 
-2. [**Devnet associate 200-901**](https://www.ciscopress.com/store/cisco-certified-devnet-associate-devasc-200-901-official-9780136642961) by **Chris Jackson**, **Jason Gooley**, **Adrian Iliesu**, **Ashutosh Malegaonkar**, to me this is the second best book following the automation journey from a beginner perspective, the content is insightful, if you lab daily you can polish your skills
+2. [**Devnet Associate 200-901**](https://www.ciscopress.com/store/cisco-certified-devnet-associate-devasc-200-901-official-9780136642961) by **Chris Jackson**, **Jason Gooley**, **Adrian Iliesu**, **Ashutosh Malegaonkar**, to me this is the second best book following the automation journey from a beginner perspective, the content is insightful, if you lab daily you can polish your skills
 
 
-3. [**Devnet associate handbook**](https://www.amazon.com/Cisco-Certified-DevNet-Associate-Handbook-ebook/dp/B0CTMQSV6F) by **Stuart Clark** and 2 amazing contributors **Quinn Snyder** and **Verlaine J Muhungu**, this handbook is a great way to learn quickly automation with tiny steps, it's like a resume of the Devnet associate 200-901 guide
+3. [**Devnet Associate Handbook**](https://www.amazon.com/Cisco-Certified-DevNet-Associate-Handbook-ebook/dp/B0CTMQSV6F) by **Stuart Clark** and 2 amazing contributors **Quinn Snyder**, and **Verlaine J Muhungu**, this handbook is a great way to learn quickly automation with tiny steps, it's like a resume of the Devnet associate 200-901 guide
 
 
-4. [**Network programmability and automation fundamentals**](https://www.ciscopress.com/store/network-programmability-and-automation-fundamentals-9781587145148) by **Khaled Abuelenain** ,**Jeff Doyle**, **Anton Karneliuk**, **Vinit Jain**, this is one the best books to start your automation journey no matter your level, the way the authors explain things is just insightful and inspiring, the book teaches real life scenarios you can go far with your hands on experience following different labs.
+4. [**Network Programmability and Automation Fundamentals**](https://www.ciscopress.com/store/network-programmability-and-automation-fundamentals-9781587145148) by **Khaled Abuelenain**, **Jeff Doyle**, **Anton Karneliuk**, **Vinit Jain**, this is one the best books to start your automation journey no matter your level, the way the authors explain things is just insightful and inspiring, the book teaches real life scenarios you can go far with your hands on experience following different labs.
 
 **Recommended Documentation to Explore for pyATS** :gem:
 
