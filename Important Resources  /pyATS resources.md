@@ -67,6 +67,6 @@ Create a free [**CiscoU**](https://u.cisco.com/) account to benefit from the exc
 | John Capobianco| [**Using the Power of Artificial Intelligence to Augment Network Automation**](https://blogs.cisco.com/developer/using-the-power-of-artificial-intelligence-to-augment-network-automation)
 
 
-You don’t need thousands of resources, just a few key ones to kickstart your pyATS journey, Let's discover tools for your &#128073;&#127997; [**developer's environment**](https://github.com/verlaine-muhungu/100-Days-of-Cisco-PyATS-/blob/main/Tools%20/YourEnvironment.md)
+You don’t need thousands of resources, just a few key ones to kickstart your pyATS journey, Let's discover tools for your &#128073;&#127997; [**development environment**](https://github.com/verlaine-muhungu/100-Days-of-Cisco-PyATS-/blob/main/Tools%20/YourEnvironment.md)
 
 
