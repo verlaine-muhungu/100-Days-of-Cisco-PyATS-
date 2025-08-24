@@ -4,7 +4,7 @@ To enhance your development environment across macOS, Ubuntu, or Windows, certai
 
 In this AI era, some of these tools incorporate **Natural Language Processing** (NLP), which aims to assist, not replace, network engineers or developers.
 
-:computer: [**Think Like A Developer** by **Erika Dietrick**](https://www.youtube.com/playlist?list=PLvfm4aNXLC8wiJs-YGVQXUwukv06z5NJS) is a great series in the making for network engineers and developers who want to make a difference in this AI era,**Erika Dietrick** will help you to stand out in this competitive tech economy.
+:computer: [**Think Like A Developer** by **Erika Dietrick**](https://www.youtube.com/playlist?list=PLvfm4aNXLC8wiJs-YGVQXUwukv06z5NJS) is a great series in the making for network engineers and developers who want to make a difference in this AI era, **Erika Dietrick** will help you to stand out in this competitive tech economy.
 
 [**VS Code**](https://code.visualstudio.com/): This widely used IDE offers a rich ecosystem for developers, featuring numerous extensions and AI-powered capabilities.
 
