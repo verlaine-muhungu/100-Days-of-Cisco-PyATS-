@@ -1,4 +1,4 @@
-**Your developer's environment matters!**  💻
+**Your development environment matters!**  💻
 
 To enhance your development environment across macOS, Ubuntu, or Windows, certain tools are recommended.
 
