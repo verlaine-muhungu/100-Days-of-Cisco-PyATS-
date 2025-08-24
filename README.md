@@ -12,8 +12,8 @@ A dedicated space for the 100 Days Challenge progress and projects
 
 | Chapters  | Topics                       | Notes |
 |-------|---------------------------------|-------------------|
-| [1]  |**Foundation of NetDevOps** | foundational|
-| [2]  |**Installing and Upgrading pyATS** | foundational|
+| [1]  |**Foundation of NetDevOps** | Foundational|
+| [2]  |**Installing and Upgrading pyATS** | Foundational|
 | [3]  |**Testbeds** | Foundational |
 | [4]  |**AEtest Test Infrastraucture** | Advanced |
 | [5]  |**PyATS Parsers** | Advanced |
