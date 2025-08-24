@@ -67,7 +67,7 @@ The first two days of this challenge are easy to grasp, here is how to contribut
 
 - **Share what you learn in each step, whether it's a Linkedin post or short blog, no perfection**
 
-- **Use the hashtag #100daysofpyATS for every post you will share during the challenge,and do not forget to mention the day,example 1/100**
+- **Use the hashtag `#100daysofpyATS` for every post you will share during the challenge, and do not forget to mention the day (example 1/100)**
 
 - **Ask questions in the group, there's no irrelevant questions, keep asking until you feel comfortable with pyATS**
 
