@@ -45,7 +45,7 @@ Whether you're just starting your automation journey or looking to level up, thi
 
 ✅ Designed for safe, repeatable, real-world automation testing
 
-✅ Powered by Python,the defacto language of automation
+✅ Powered by Python, the defacto language of automation
 
 ✅ Perfect for building confidence and creativity in the AI era
 
@@ -62,15 +62,15 @@ This initiative is inspired by the incredible work of **John Capobianco** and **
 ✅ You’ll build real skills, real confidence, and real results 
 
 
-The first two days of this challenge are easy to grasp,here is how to contribute and make this challenge exciting 
+The first two days of this challenge are easy to grasp, here is how to contribute and make this challenge exciting 
 
-- **Share what you learn in each step,whether it's a Linkedin post or short blog,no perfection**
+- **Share what you learn in each step, whether it's a Linkedin post or short blog, no perfection**
 
 - **Use the hashtag #100daysofpyATS for every post you will share during the challenge,and do not forget to mention the day,example 1/100**
 
-- **Ask questions in the group,there's no irrelevant questions,keep asking until you feel comfortable with pyATS**
+- **Ask questions in the group, there's no irrelevant questions, keep asking until you feel comfortable with pyATS**
 
-- **After exploring the first four chapters, if you feel inspired to start a project, do not hesitate to share it with the group,you’ll receive full credit for your work**
+- **After exploring the first four chapters, if you feel inspired to start a project, do not hesitate to share it with the group, you’ll receive full credit for your work**
 
 - **All Projects from the challenge will be shared here to inspire the globe**
 
