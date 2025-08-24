@@ -11,7 +11,7 @@ A dedicated space for the 100 Days Challenge progress and projects
 ![PyATS book](https://github.com/user-attachments/assets/7d07ddca-2456-4e88-bdc1-a1d257312757)
 
 | Chapters  | Topics                       | Notes |
-|-------|---------------------------------|-------------------|
+|-----------|------------------------------|-------|
 | [1]  |**Foundation of NetDevOps** | Foundational|
 | [2]  |**Installing and Upgrading pyATS** | Foundational|
 | [3]  |**Testbeds** | Foundational |
