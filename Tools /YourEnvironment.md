@@ -14,7 +14,7 @@ These are the best IDEs to use in your pyATS journey.
 
 [**Warp Terminal**](https://www.warp.dev/): In this new era of artificial intelligence, WARP  stands out as a leading terminal designed to accelerate your tasks through its rich feature set and intelligent capabilities. By leveraging the advantages of AI, it offers an optimal terminal experience.
 
-**Network simulation tools** 
+**Network Simulation Tools** 
 
 :white_check_mark: [**Cisco Modeling Labs**](https://developer.cisco.com/docs/modeling-labs/cml-free/#cisco-modeling-labs---free) 
 
