@@ -1,4 +1,4 @@
-**Top 4 Books to Kickstart or Elevate Your Automation Skills** 📚
+**Top 4 Books to Kickstart or Elevate Your Automation Skills** :books:
 
 1. [**Cisco PyATS**](https://www.ciscopress.com/store/cisco-pyats-network-test-and-automation-solution-data-9780138031671) by **John capobianco** and **Daniel wade** they are brillant automation contributors,PyATS is a great way to learn test driven automation,this guide is the first in the universe !
 
@@ -11,7 +11,7 @@
 
 4. [**Network programmability and automation fundamentals**](https://www.ciscopress.com/store/network-programmability-and-automation-fundamentals-9781587145148) by **Khaled abuelenain** ,**Jeff doyle**, **Anton karneliuk**, **Vinit jain**,this is one the best books to start your automation journey no matter your level,the way the authors explain things is just insightful and inspiring,the book teaches real life scenarios you can go far with your hands on experience following different labs.
 
-**Recommended Documentation to Explore for pyATS** 💎
+**Recommended Documentation to Explore for pyATS** :gem:
 
 
 1. [**Cisco pyATS by Cisco Devnet**](https://developer.cisco.com/docs/pyats/api/)
@@ -28,7 +28,7 @@
 
 
 
-**Return to fundamentals** 📝
+**Return to fundamentals** :pencil:
 
 Don't stress about the day,focus on what you can learn and apply, even if it's just 30 minutes or an hour.
 No need to worry if you're not familiar with Python or Git; the right resources can help you make real progress.
@@ -41,7 +41,7 @@ No need to worry if you're not familiar with Python or Git; the right resources 
 
 
 
-**Free courses and tutorials worth learning** 💻
+**Free courses and tutorials worth learning** :computer:
 
 1. [**Network Automation Testing with pyATS**](https://ondemandelearning.cisco.com/apollo-alpha/mc_naec10_13/pages/1)
 
@@ -53,7 +53,7 @@ No need to worry if you're not familiar with Python or Git; the right resources 
 Create a free [**CiscoU**](https://u.cisco.com/) account to benefit from the exclusive content.
 
 
-**Precious articles and blogs about pyATS** 💎
+**Precious articles and blogs about pyATS** :gem:
 
 | Author  | Article or blog            |
 |-------|------------------------------
@@ -67,6 +67,6 @@ Create a free [**CiscoU**](https://u.cisco.com/) account to benefit from the exc
 | John Capobianco| [**Using the Power of Artificial Intelligence to Augment Network Automation**](https://blogs.cisco.com/developer/using-the-power-of-artificial-intelligence-to-augment-network-automation)
 
 
-You don’t need thousands of resources, just a few key ones to kickstart your pyATS journey, Let's discover tools for your 👉🏽 [**developer's environment**](https://github.com/verlaine-muhungu/100-Days-of-Cisco-PyATS-/blob/main/Tools%20/YourEnvironment.md)
+You don’t need thousands of resources, just a few key ones to kickstart your pyATS journey, Let's discover tools for your &#128073;&#127997; [**developer's environment**](https://github.com/verlaine-muhungu/100-Days-of-Cisco-PyATS-/blob/main/Tools%20/YourEnvironment.md)
 
 
