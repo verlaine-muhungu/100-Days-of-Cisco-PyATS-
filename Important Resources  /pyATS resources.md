@@ -33,11 +33,11 @@
 Don't stress about the day, focus on what you can learn and apply, even if it's just 30 minutes or an hour.
 No need to worry if you're not familiar with Python or Git; the right resources can help you make real progress.
 
-💻[**Introduction to Source Control and Git** By **Tony Roman** ](https://ondemandelearning.cisco.com/apollo-alpha/mc_naec10_06/pages/1)  
+:computer: [**Introduction to Source Control and Git** By **Tony Roman** ](https://ondemandelearning.cisco.com/apollo-alpha/mc_naec10_06/pages/1)  
 
-💻[**Git for Network Engineers - The Basics** By **Tony Roman**](https://ondemandelearning.cisco.com/apollo-alpha/tc-git-for-neteng-the-beginning/pages/1) 
+:computer: [**Git for Network Engineers - The Basics** By **Tony Roman**](https://ondemandelearning.cisco.com/apollo-alpha/tc-git-for-neteng-the-beginning/pages/1) 
 
-💻[**Introduction to Python** By **Cisco Devnet**]( https://developer.cisco.com/learning/modules/dne-intro-python/)
+:computer: [**Introduction to Python** By **Cisco Devnet**]( https://developer.cisco.com/learning/modules/dne-intro-python/)
 
 
 
