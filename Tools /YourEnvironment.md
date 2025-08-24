@@ -24,6 +24,7 @@ These are the best IDEs to use in your pyATS journey.
 
 Select the tool you're most comfortable with to build your labs.
 
-To accelerate your pyATS journey,Cisco Devnet offers free [**Sandboxes**](https://developer.cisco.com/site/sandbox/)
+To accelerate your pyATS journey, Cisco Devnet offers free [**Sandboxes**](https://developer.cisco.com/site/sandbox/)
 
-Start the &#128073;&#127997; [**100 Days**](https://github.com/verlaine-muhungu/100-Days-of-Cisco-PyATS-/blob/main/Days%20/The%20100%20Days.md) now with dedication and excitement!
+Start the &#128073;&#127997; [**100 Days**](https://github.com/verlaine-muhungu/100-Days-of-Cisco-PyATS-/blob/main/Days%20/The%20100%20Days.md)
+now with dedication and excitement!
