@@ -1,3 +1,7 @@
+> [!NOTE]  
+> This challenge continues and it's the very first ever organized,it will get better,your feedback is appreciated.
+
+
 **How to follow the days?**
 
 Each day is a new opportunity to learn. Share what you’ve discovered by posting on LinkedIn or writing a short blog.
@@ -11,9 +15,13 @@ There’s no need to rush. Let’s take this learning journey step by step :turt
 > The resources shared here are not exhaustive. If a resource doesn’t meet your
 > needs on a given day and you don’t have access to a book, community members
 > will suggest relevant links to help you, especially with pyATS. Since this is
-> our first 100 Days of pyATS, we’ll continue to improve as we move forward.
+> our first 100 Days of pyATS, we’ll continue to improve as we move forward,this guide has been updated with new levels to help you succeed in your automation journey with pyATS.
 
 For Labs on [**Cisco pyATS**](https://developer.cisco.com/search?type=all&q=pyATS) Cisco Devnet offers amazing hands-on resources.
+
+
+> [!TIP]
+> **pyATS Discovery**: This is the entry level of the challenge, which lasts from day 1 to day 11 
 
 
 Day 1: **Foundations of NetdevOps**
@@ -46,6 +54,11 @@ Day 7 - 11 : **AEtest Test Infrastructure**
 :books: [**pyATS AEtest Introduction**](https://rayka-co.com/lesson/pyats-aetest-introduction/)
 
 :books: [**Network Automation Testing with pyATS**](https://ondemandelearning.cisco.com/apollo-alpha/mc_naec10_13/pages/1)
+
+
+
+> [!TIP]
+> **pyATS Exploration**: this level goes from day 12 to 37, this stage becomes intricate as you are going with the challenge.
 
 
 Day 12-16 : **Parsers**
@@ -89,6 +102,12 @@ Day 33 - 37 : **pyATS triggers and Verifications**
 :books: [**Writing a Trigger**](https://github.com/CiscoTestAutomation/getting-started/blob/main/develop-guide/writetrigger/writetrigger.rst)
 
 :books: [**pyATS triggers and Verifications excerpt**](https://ptgmedia.pearsoncmg.com/images/9780138031671/samplepages/9780138031671_Sample.pdf)
+
+
+
+> [!TIP]
+> **pyATS Odyssey**: This level goes from day 38 to 100; this is a long and deep journey into the world of pyATS.
+
 
 Day 38 - 42 : **Automated configuration Management**
 
