@@ -1,9 +1,14 @@
-# 100 Days of pyATS - Project Documentation
-
 This document provides comprehensive documentation for all Python files in the 100daysofpyats project, organized by directory and explained with their purpose and functionality.
 
 ## Project Overview
 This is a learning project focused on pyATS (Python Automated Test Systems), covering various aspects of network automation, testing, and configuration management over different days of study.
+
+## Credits and Attribution
+This project contains code from multiple sources and authors we have used to test our comprehension of the book :
+- Original learning scripts and examples developed during the 100daysofpyats journey
+- Cisco Systems pyATS example scripts by Wei Chen
+- bubo project by John Capobianco (2022)
+- Various community contributions and examples
 
 ---
 
