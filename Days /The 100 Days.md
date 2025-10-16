@@ -191,3 +191,6 @@ Day 97-100 : **Leveraging Artificial intelligence with pyATS**
 
 :brain: [**chatGPT AI-powered network automation tests with pyATS and WebEx**](https://youtu.be/V6naa8bvbN0)
 
+
+Ready to explore the DOC ? start now 👉🏽 [**The Brief DOCS**](https://github.com/verlaine-muhungu/100-Days-of-Cisco-PyATS-/tree/main/Brief%20DOCS%20)
+
