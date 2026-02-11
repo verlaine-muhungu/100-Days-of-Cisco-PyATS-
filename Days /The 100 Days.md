@@ -194,3 +194,6 @@ Day 97-100 : **Leveraging Artificial intelligence with pyATS**
 
 Ready to explore the DOC ? start now 👉🏽 [**The Brief DOCS**](https://github.com/verlaine-muhungu/100-Days-of-Cisco-PyATS-/blob/main/Brief%20DOCS%20/Brief%20DOCS.md)
 
+## Exercises and solutions
+
+Start practicing with the workbook: [**100 Days of pyATS — Exercises and Solutions**](./Exercises%20and%20Solutions.md)
